@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T13:06:00.743Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="ed314VrcyjRjgBA800xT" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T03:15:26.132Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="YEL3wJ9oVT-agPKYJIM4" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="825" dy="1641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -217,14 +217,11 @@
         <mxCell id="N06t05dMDx6CmHgzP7iP-10" value="Risco Ocorrer ou Fato Ocorrido" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="650.5" y="474.49" width="100" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="N06t05dMDx6CmHgzP7iP-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.74;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N06t05dMDx6CmHgzP7iP-12" edge="1">
+        <mxCell id="N06t05dMDx6CmHgzP7iP-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.74;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="749.5" y="586.99" as="sourcePoint" />
+            <mxPoint x="641.8" y="635" as="sourcePoint" />
             <mxPoint x="780.5" y="521.9899999999998" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="N06t05dMDx6CmHgzP7iP-12" value="Tipo Ocorrencia" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="689.5" y="561.99" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N06t05dMDx6CmHgzP7iP-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PrvRkz_TOc2St610Ay0l-1" target="PrvRkz_TOc2St610Ay0l-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -331,7 +328,7 @@
         <mxCell id="U2Ju9FL6nb-RaTlUw3mc-1" value="&lt;h1&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;25/10 - comentarios&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;A ocorrencia vira com todos os seus atributos&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;ok.retirar entidade lugar e levar os atributos para o relacionamento ocorrencia&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Irá criar uma entidade associativa&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Assim o relacionamento recursivo é permitido&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;ok.Regional como entidade linkando com orgado de destino do oficio e ocorrencia&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;ok.Interdição,monitoramento e data planejada monitoramento vao para ocorrencia.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Talvez ofício possa ser um atributo da ocorrencia e número e email viram forma de encamianhamento e número. (necessário confirmar se as informações são necessárias ou oficio é apenas numero e email)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;se for por ano o registro talvez seja interessante criar uma nova entidade e assim resetar na mudança&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;ACRESCENTAR A CARDINALIDADE!!&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1129.5" y="-22.070000000000004" width="400" height="549.06" as="geometry" />
         </mxCell>
-        <mxCell id="U2Ju9FL6nb-RaTlUw3mc-2" value="Ocorrência" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="U2Ju9FL6nb-RaTlUw3mc-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;latitude e longitude&lt;/font&gt;&lt;/font&gt;" style="shape=associativeEntity;whiteSpace=wrap;html=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="750.5" y="496.99" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U2Ju9FL6nb-RaTlUw3mc-3" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;ANOTAÇÔES 18/10&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -414,6 +411,9 @@
         </mxCell>
         <mxCell id="x6aUkNzfm-qpmI5n8u1l-30" value="n,n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="384" y="494.49" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aT1QeYSvK68swAhyynmw-0" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;tipo de ocorrência&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="620" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
